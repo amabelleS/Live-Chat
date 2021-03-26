@@ -39,4 +39,4 @@ FIRESTORE_APP_ID=
 ### Cloud Firestore for the server side:)
 
 You can check Firestore docs for a quick set-up:
-[Cloud Firestore Docs](
+[Cloud Firestore Docs](https://firebase.google.com/docs/firestore/quickstart)
