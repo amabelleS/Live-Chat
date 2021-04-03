@@ -26,7 +26,7 @@ npm run build
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-this project is utelized with firebase authentication, a firebase project is needed in order for the code to function properly:#[getting started with firebase](https://firebase.google.com/docs/web/setup#create-firebase-project).
+this project is utelized with firebase authentication, a firebase project is needed in order for the code to function properly:[getting started with firebase](https://firebase.google.com/docs/web/setup#create-firebase-project).
 
 .env exmaple file:
 FIRESTORE_API_KEY=
